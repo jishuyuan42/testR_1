@@ -2,7 +2,7 @@ Star:
 
 	- feature-A
 	- have a step -a 
-
+	- step -a -2
 
 
 
